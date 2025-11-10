@@ -1,0 +1,10 @@
+Prompt 1:Describe how the Nike Store website works from start to finish. It’s built using React (Vite + TypeScript + TailwindCSS) for the frontend and Supabase for the backend. Explain how users can sign up, log in, look through Nike products, view product details, add items to their cart, and place orders. Talk about how the pages are connected, how data moves between the app and Supabase, what tools are used, and how to host it online with Vercel or Netlify.
+
+Prompt 2:Set up the backend using Supabase. Create tables for products, users, carts, and orders. Make sure users can only see their own data. Add one backend function that places an order, reduces stock, and clears the cart automatically. Fill the database with some sample Nike shoes, each with a name, image, price, and stock. End with clear steps to set it up and test it.
+
+Prompt 3:Build the frontend using React, TailwindCSS, and React Router. Create simple pages for Home, Product Details, Cart, Login, Signup, Checkout, and Orders. Use React Context to manage user login and cart data. Connect the frontend to Supabase to get products and handle authentication. Add loading screens, error messages, and make sure the site looks good on all devices.
+
+Prompt 4:Design the database in Supabase (PostgreSQL). Make tables for products, users, carts, and orders with all the needed fields like name, price, stock, and image. Add 4–5 sample Nike shoes as test data. Write small SQL commands or simple steps to add this data inside Supabase.
+
+Prompt 5:Write clean and easy-to-follow documentation for the Nike Store. Explain what the app does, how it works, and what tech it uses. Add a small diagram showing the flow between React, Supabase, and the Database. List the main components, API routes, and environment variables. Then give short steps for setup, running, and deploying. Finally, mention a few ideas for future updates like adding payments, product filters, or a wishlist.
+
